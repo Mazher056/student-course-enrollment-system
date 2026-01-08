@@ -1,0 +1,46 @@
+INSERT INTO student (name, email) VALUES
+('Amit Sharma', 'amit.sharma@gmail.com'),
+('Priya Verma', 'priya.verma@gmail.com'),
+('Rahul Singh', 'rahul.singh@gmail.com'),
+('Neha Gupta', 'neha.gupta@gmail.com'),
+('Arjun Patel', 'arjun.patel@gmail.com'),
+('Sneha Iyer', 'sneha.iyer@gmail.com'),
+('Rohit Mehta', 'rohit.mehta@gmail.com'),
+('Ananya Das', 'ananya.das@gmail.com'),
+('Vikas Malhotra', 'vikas.malhotra@gmail.com'),
+('Pooja Nair', 'pooja.nair@gmail.com'),
+('Karan Khanna', 'karan.khanna@gmail.com'),
+('Shreya Sen', 'shreya.sen@gmail.com'),
+('Manish Kumar', 'manish.kumar@gmail.com'),
+('Ritika Jain', 'ritika.jain@gmail.com'),
+('Suresh Reddy', 'suresh.reddy@gmail.com'),
+('Kavita Rao', 'kavita.rao@gmail.com'),
+('Aditya Joshi', 'aditya.joshi@gmail.com'),
+('Nikhil Bansal', 'nikhil.bansal@gmail.com'),
+('Meera Kulkarni', 'meera.kulkarni@gmail.com'),
+('Ankit Agarwal', 'ankit.agarwal@gmail.com');
+
+
+
+INSERT INTO course (title, description) VALUES
+('Spring Boot', 'Backend development with Spring Boot'),
+('Java Fundamentals', 'Core Java concepts and OOP'),
+('Hibernate & JPA', 'ORM using Hibernate and JPA'),
+('REST API Development', 'Designing RESTful APIs'),
+('Database Design', 'Relational database design principles'),
+('Data Structures', 'Data structures using Java'),
+('Algorithms', 'Algorithmic problem solving'),
+('Microservices', 'Microservices architecture basics'),
+('Spring Security', 'Authentication and authorization'),
+('Docker Basics', 'Containerization with Docker'),
+('Kubernetes Intro', 'Orchestration with Kubernetes'),
+('System Design', 'High-level system design concepts'),
+('Git & GitHub', 'Version control with Git'),
+('Linux Basics', 'Linux command line essentials'),
+('Cloud Fundamentals', 'Introduction to cloud computing'),
+('AWS Basics', 'Getting started with AWS'),
+('CI/CD Pipelines', 'Continuous integration and delivery'),
+('Testing with JUnit', 'Unit testing in Java'),
+('Advanced Java', 'Advanced Java programming topics'),
+('API Performance', 'Optimizing API performance');
+
